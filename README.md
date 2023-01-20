@@ -1,5 +1,8 @@
 # Photo E-Commerce Mobile Application
 Using Dart language to develop, Use Firebase as a Database and Use Flutter Framework. It consists of a shopping cart, Membership System, Product search system, Billing system.
+<p align="center">
+  <img src="images/logo.png">
+<p/>
 
 # Screens it contains
 <p> => Home Page <p/>
